@@ -49,9 +49,6 @@ const PlaceOrder = () => {
         </div>
         </div>    
       </form>
-
-      
-      
     </>
   )
 }
